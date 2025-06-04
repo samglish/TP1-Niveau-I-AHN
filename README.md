@@ -10,3 +10,5 @@ binaires
 Groupe 6 : Répertoire de fichiers : arbres n-aires
 Groupe 7 : Optimisation d'itinéraire : graphes pondérés
 Groupe 8 : Dictionnaire multilingue : tables de hachage
+Groupe 9 : Système de suggestions automatiques : arbres
+tries (tries)
