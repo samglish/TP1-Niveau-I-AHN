@@ -3,19 +3,19 @@ Uniquement pour les etudiants d'AHN 1-ENSPM
 
 <hr>
 
-<p>Groupe 1 : Gestion des contacts : tableaux dynamiques</p>
-<p>Groupe 2 : Historique de navigation web : piles</p>
-<p>Groupe 3 : Système de billetterie : files</p>
-<p>Groupe 4 : Système de messagerie : files de priorité</p>
-<p>Groupe 5 : Traitement d'expressions mathématiques : arbres
+<p><b>Groupe 1 :</b> Gestion des contacts : tableaux dynamiques</p>
+<p><b>Groupe 2 :</b> Historique de navigation web : piles</p>
+<p><b>Groupe 3 :</b> Système de billetterie : files</p>
+<p><b>Groupe 4 :</b> Système de messagerie : files de priorité</p>
+<p><b>Groupe 5 :</b> Traitement d'expressions mathématiques : arbres
 binaires</p>
-<p>Groupe 6 : Répertoire de fichiers : arbres n-aires</p>
-<p>Groupe 7 : Optimisation d'itinéraire : graphes pondérés</p>
-<p>Groupe 8 : Dictionnaire multilingue : tables de hachage</p>
-<p>Groupe 9 : Système de suggestions automatiques : arbres
+<p><b>Groupe 6 :</b> Répertoire de fichiers : arbres n-aires</p>
+<p><b>Groupe 7 :</b> Optimisation d'itinéraire : graphes pondérés</p>
+<p><b>Groupe 8 :</b> Dictionnaire multilingue : tables de hachage</p>
+<p><b>Groupe 9 :</b> Système de suggestions automatiques : arbres
 tries (tries)</p>
-<p>Groupe 10 : Suivi des commandes : listes chaînées</p>
-<p>Groupe 11 : Tri d'étudiants par moyenne : algorithmes de tri</p>
+<p><b>Groupe 10 :</b> Suivi des commandes : listes chaînées</p>
+<p><b>Groupe 11 :</b> Tri d'étudiants par moyenne : algorithmes de tri</p>
 
 <hr>
 
