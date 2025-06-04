@@ -1,6 +1,8 @@
 # TP1-Niveau-I-AHN
 Uniquement pour les etudiants d'AHN 1-ENSPM
 
+<hr>
+
 Groupe 1 : Gestion des contacts : tableaux dynamiques
 Groupe 2 : Historique de navigation web : piles
 Groupe 3 : Système de billetterie : files
@@ -14,3 +16,5 @@ Groupe 9 : Système de suggestions automatiques : arbres
 tries (tries)
 Groupe 10 : Suivi des commandes : listes chaînées
 Groupe 11 : Tri d'étudiants par moyenne : algorithmes de tri
+
+<hr>
