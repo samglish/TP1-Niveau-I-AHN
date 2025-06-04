@@ -21,15 +21,18 @@ tries (tries)</p>
 
 ## Consignes générales (communes à tous les groupes)
 * Format attendu :
-     Présentation (PowerPoint ou équivalent).
-     Démonstration Python : script exécutable ou notebook.
-     Schémas explicatifs ou diagrammes (si besoin).
+     
+     <p>Présentation (PowerPoint ou équivalent).</p>
+     <p>Démonstration Python : script exécutable ou notebook.</p>
+     <p>Schémas explicatifs ou diagrammes (si besoin).</p>
+
 * À intégrer :
-    Explication de la structure de données.
-    Mise en contexte réelle du problème.
-    Extrait de code Python + capture ou démonstration.
-    Complexité (temps/mémoire) des principales opérations.
-    Avantages / limites de la structure dans le contexte donné.
+
+    <p>Explication de la structure de données.</p>
+    <p>Mise en contexte réelle du problème.</p>
+    <p>Extrait de code Python + capture ou démonstration.</p>
+    <p>Complexité (temps/mémoire) des principales opérations.</p>
+    <p>Avantages / limites de la structure dans le contexte donné.</p>
 
 
 <a href="correction.md">Correction</a>
