@@ -13,3 +13,4 @@ Groupe 8 : Dictionnaire multilingue : tables de hachage
 Groupe 9 : Système de suggestions automatiques : arbres
 tries (tries)
 Groupe 10 : Suivi des commandes : listes chaînées
+Groupe 11 : Tri d'étudiants par moyenne : algorithmes de tri
