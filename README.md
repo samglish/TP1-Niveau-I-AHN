@@ -20,13 +20,13 @@ tries (tries)</p>
 <hr>
 
 ## Consignes générales (communes à tous les groupes)
-* Format attendu :
+* `Format attendu :`
      
      <p>Présentation (PowerPoint ou équivalent).</p>
      <p>Démonstration Python : script exécutable ou notebook.</p>
      <p>Schémas explicatifs ou diagrammes (si besoin).</p>
 
-* À intégrer :
+* `À intégrer :`
 
     <p>Explication de la structure de données.</p>
     <p>Mise en contexte réelle du problème.</p>
