@@ -30,3 +30,6 @@ Groupe 11 : Tri d'étudiants par moyenne : algorithmes de tri
     Extrait de code Python + capture ou démonstration.
     Complexité (temps/mémoire) des principales opérations.
     Avantages / limites de la structure dans le contexte donné.
+
+
+<a href="correction.md">Correction</a>
