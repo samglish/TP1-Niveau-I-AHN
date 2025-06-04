@@ -18,3 +18,15 @@ Groupe 10 : Suivi des commandes : listes chaînées
 Groupe 11 : Tri d'étudiants par moyenne : algorithmes de tri
 
 <hr>
+
+## Consignes générales (communes à tous les groupes)
+* Format attendu :
+     Présentation (PowerPoint ou équivalent).
+     Démonstration Python : script exécutable ou notebook.
+     Schémas explicatifs ou diagrammes (si besoin).
+* À intégrer :
+    Explication de la structure de données.
+    Mise en contexte réelle du problème.
+    Extrait de code Python + capture ou démonstration.
+    Complexité (temps/mémoire) des principales opérations.
+    Avantages / limites de la structure dans le contexte donné.
