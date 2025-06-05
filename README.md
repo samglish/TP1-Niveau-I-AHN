@@ -35,4 +35,4 @@ tries (tries)</p>
     <p>Avantages / limites de la structure dans le contexte donné.</p>
 
 
-<a href="correction.md">Correction</a>
+<a href="correction.md"><b>Cliquez ici pour voir la correction</b></a>
